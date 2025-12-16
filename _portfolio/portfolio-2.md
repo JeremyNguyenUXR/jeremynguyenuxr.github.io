@@ -4,6 +4,12 @@ excerpt: "A directional research and usability testing project using iterative d
 collection: portfolio
 ---
 
+![Exercise Banner](/images/Portfolio2_Images/banner.webp)
+
+---
+
+[Final Report Download](/files/CCT380_A8_Group10.pdf)
+
 ## Overview
 
 This is a course long project for a UX research course to develop and demonstrate my research skills learnt through out the semester. Our goal was to solve a problem on campus and conduct research to develop the most suitable solution to the problem. My role in this project was to **proudly lead the primary and secondary research where I recruited and conducted interviews on all 20 participants, facilitate workshops**, and aid in UI designing.

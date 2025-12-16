@@ -11,6 +11,11 @@ collection: portfolio
 
 
 ---
+[Final Presentation Download](/files/CCT477 Presentation.pptx)
+
+[Research Report (Part 1) Download](/files/UX Research Report (Part 1).pdf)
+
+[Research Report (Part 2) Download](/files/UX Research Report (Part 2).pdf)
 
 ## Overview
 

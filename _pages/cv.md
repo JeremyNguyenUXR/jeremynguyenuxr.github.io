@@ -12,8 +12,6 @@ redirect_from:
 # Jeremy Nguyen
 
 Brampton, ON, Canada  
-**Email:** jeremynguyen792@gmail.com  
-**Phone:** 437-383-2085  
 
 ---
 

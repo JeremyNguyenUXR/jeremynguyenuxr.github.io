@@ -33,7 +33,7 @@ You can explore my projects below to see my approach to research, design decisio
 
 - **UofT Campus Navigation** — improving wayfinding through user research and prototyping  
 - **COVID-19 Exercise App** — usability testing and interaction design  
-- **Community Railguard Redesign Project** — heuristic evaluation and redesign  
+- [**Community Railguard Redesign Project**](/files/Group%20Case%20Study%202_Gr5.pdf) — heuristic evaluation and redesign  
 
 *View my portfolio to see the full process.*
 

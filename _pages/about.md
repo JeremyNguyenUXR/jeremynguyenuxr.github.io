@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-# Hi, I’m Jeremy Nguyen
+# Hi, I’m Jeremy Nguyen 👋
 
 ## UX Researcher & Designer focused on human-centered, evidence-driven design
 
-I’m a UX researcher and designer with a background in human–computer interaction and user research. I enjoy translating complex user needs into clear, usable design solutions through research synthesis, wireframing, and iterative testing.
 
 My work is grounded in **empathy, clarity, and thoughtful problem framing** whether I’m conducting interviews, facilitating workshops, or refining interactions through usability testing.
 
@@ -31,10 +30,15 @@ My background in education has shaped how I communicate ideas, facilitate collab
 
 You can explore my projects below to see my approach to research, design decisions, and iteration:
 
-- **UofT Campus Navigation** — improving wayfinding through user research and prototyping  
-- **COVID-19 Exercise App** — usability testing and interaction design  
-- [**Community Railguard Redesign Project**](/files/Group%20Case%20Study%202_Gr5.pdf) — heuristic evaluation and redesign  
+- [**UofT Campus Navigation**🧭](/_portfolio/portfolio-1.md) — improving wayfinding through user research and prototyping
+![Navigation Home Image](/images/Portfolio1_Images/Wireframes_2.webp)  
 
-*View my portfolio to see the full process.*
+- [**COVID-19 Exercise App**🏃](/_portfolio/portfolio-2.md) — usability testing and interaction design  
+![Exercise Home Image](/images/Portfolio2_Images/Iteration%203-4.webp)
+
+- [**Community Railguard Redesign Project**🚗](/files/Group%20Case%20Study%202_Gr5.pdf) — heuristic evaluation and redesign
+![Rail Home Image](/images/Railgaurd.webp)  
+
+*View my portfolio to see the full process!*
 
 ---

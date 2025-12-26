@@ -11,21 +11,20 @@ redirect_from:
 
 ## UX Researcher & Designer focused on human-centered, evidence-driven design
 
+Welcome to my website, here you'll find all about my work and my expereince from across the world or at the local cafe across the street. Feel free to contact me at any of my socials. Enjoy the browsing 🍵
 
 My work is grounded in **empathy, clarity, and thoughtful problem framing** whether I’m conducting interviews, facilitating workshops, or refining interactions through usability testing.
 
 ---
-
+<!-->
 ## How I work
 
 - I start by **listening**, understanding user goals, pain points, and context  
 - I synthesize research into **clear insights** using frameworks like personas, affinity maps, and journey maps  
 - I design and iterate through **wireframes and prototypes**, validating decisions with real users  
 
-My background in education has shaped how I communicate ideas, facilitate collaboration, and design with accessibility in mind.
-
 ---
-
+-->
 ## Selected Work
 
 You can explore my projects below to see my approach to research, design decisions, and iteration:

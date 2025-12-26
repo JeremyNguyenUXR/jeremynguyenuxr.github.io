@@ -21,13 +21,13 @@ My work is grounded in **empathy, clarity, and thoughtful problem framing** whet
 
 You can explore my projects below to see my approach to research, design decisions, and iteration:
 
-- [**UofT Campus Navigation**🧭](/_portfolio/portfolio-1.md) — improving wayfinding through user research and prototyping
+- [**UofT Campus Navigation**🧭](/_portfolio/portfolio-1.md) - improving wayfinding through user research and prototyping
 ![Navigation Home Image](/images/Portfolio1_Images/Wireframes_2.webp)  
 
-- [**COVID-19 Exercise App**🏃](/_portfolio/portfolio-2.md) — usability testing and interaction design  
+- [**COVID-19 Exercise App**🏃](/_portfolio/portfolio-2.md) - usability testing and interaction design  
 ![Exercise Home Image](/images/Portfolio2_Images/Iteration%203-4.webp)
 
-- [**Community Railguard Redesign Project**🚗](/files/Group%20Case%20Study%202_Gr5.pdf) — heuristic evaluation and redesign
+- [**Community Railguard Redesign Project**🚗](/files/Group%20Case%20Study%202_Gr5.pdf) - heuristic evaluation and redesign
 ![Rail Home Image](/images/Railgaurd.webp)  
 
 *View my portfolio to see the full process!*

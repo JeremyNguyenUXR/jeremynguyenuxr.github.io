@@ -16,7 +16,7 @@ Welcome to my website, here you'll find all about my work and my expereince from
 My work is grounded in **empathy, clarity, and thoughtful problem framing** whether I’m conducting interviews, facilitating workshops, or refining interactions through usability testing.
 
 ---
-<!-->
+<!--
 ## How I work
 
 - I start by **listening**, understanding user goals, pain points, and context  

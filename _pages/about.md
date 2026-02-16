@@ -27,6 +27,9 @@ You can explore my projects below to see my approach to research, design decisio
 - [**COVID-19 Exercise App** 🏃](/portfolio/portfolio-2) - usability testing and interaction design  
 ![Exercise Home Image](/images/Portfolio2_Images/Iteration%203-4.webp)
 
+- [**Personal Website Webdesign** 💻](/portfolio/portfolio-3) - webdesign and media production  
+![Coding Banner](/images/Portfolio3_Images/Banner.webp)
+
 - [**Community Railguard Redesign Project** 🚗](/files/Group%20Case%20Study%202_Gr5.pdf) - heuristic evaluation and redesign
 ![Rail Home Image](/images/Railgaurd.webp)  
 

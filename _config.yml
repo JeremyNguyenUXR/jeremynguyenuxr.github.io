@@ -24,9 +24,9 @@ repository               : "https://github.com/JeremyNguyenUXR/jeremynguyenuxr.g
 author:
   # Biographic information
   avatar           : "profile 4.webp"
-  name             : "User Experience Researcher & Designer"
+  name             : "User Experience Researcher & Designer & Project Manager"
   pronouns         : # example: "she/her"  
-  bio              : "I’m a UX researcher and designer with a background in human–computer interaction, website design and user research. I enjoy translating complex user needs into clear, usable design solutions through research synthesis, wireframing, and iterative testing."
+  bio              : "I’m a UX researcher, designer, and project manager with a background in human–computer interaction, website design, and user research. I lead cross-functional projects and enjoy translating complex user needs into clear, usable design solutions through research synthesis, wireframing, and iterative testing."
   location         : "Brampton, Ontario"
   employer         : "University of Toronto"
   uri              : # URL

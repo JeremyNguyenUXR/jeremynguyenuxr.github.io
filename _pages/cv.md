@@ -42,7 +42,7 @@ Sheridan College
 *2017 – 2022*
 
 **Google UX Certificate — Conduct UX Research & Test Early Concepts (Coursera)**  
-*2025 – Present*
+*2025 – 2026*
 
 ---
 

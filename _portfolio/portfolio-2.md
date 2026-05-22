@@ -12,7 +12,7 @@ collection: portfolio
 
 ## Overview
 
-This is a course long project for a UX research course to develop and demonstrate my research skills learnt through out the semester. Our goal was to solve a problem on campus and conduct research to develop the most suitable solution to the problem. My role in this project was to **proudly lead the primary and secondary research where I recruited and conducted interviews on all 20 participants, facilitate workshops**, and aid in UI designing.
+This is a course long project for a UX research course to develop and demonstrate my research skills learnt through out the semester. Our goal was to conduct usability tests to develop the most suitable UI design for our app. My role in this project was to **lead and conduct research sessions where I recruited and conducted tests on all 20 participants**, and aid in UI designing.
 
 ### My Role
 - Testing facilitator

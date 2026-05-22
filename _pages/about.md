@@ -9,11 +9,11 @@ redirect_from:
 
 # Hi, I’m Jeremy Nguyen
 
-## UX Researcher & Designer focused on human-centered, evidence-driven design, looking to transfer to project manager roles
+## UX Researcher/Designer & Project Mananger focused on empathy and understanding users to drive design and decision making
 
 Welcome to my website, here you'll find all about my work and my expereince from across the world or at the local cafe across the street. Feel free to contact me at any of my socials. Enjoy the browsing 
 
-My work is grounded in **empathy, clarity, and thoughtful problem framing** whether I’m conducting interviews, facilitating workshops, or refining interactions through usability testing.
+My work is grounded in **empathy, and thoughtful problem framing** whether I’m conducting interviews, facilitating workshops, or refining interactions through usability testing.
 
 ---
 
